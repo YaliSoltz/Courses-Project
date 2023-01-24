@@ -2,5 +2,23 @@
   "dependencies": {
     "bcrypt": "^5.1.0",
     "lodash": "^4.17.21"
-  }
+  },
+  "name": "coursesproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaliSoltz/Courses-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaliSoltz/Courses-Project/issues"
+  },
+  "homepage": "https://github.com/YaliSoltz/Courses-Project#readme",
+  "description": ""
 }
